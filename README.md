@@ -1,8 +1,8 @@
 # READ ME
 
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+## Project Setup
 
-Inside that directory, you can run several commands:
+Dowload the content of this application, cd inside that directory, you can run several commands:
 
 ## Starts the development server
 
@@ -21,3 +21,7 @@ npm run build
 ```sh
 npm start
 ```
+
+## More Information
+
+This was started from [Learn Next.js](https://nextjs.org/learn), using [this Git Repo]() as a starting point. The final result of the [example tutorial demo can be found here.](https://next-learn-starter.vercel.app/)
