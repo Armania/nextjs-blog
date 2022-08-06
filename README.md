@@ -24,4 +24,4 @@ npm start
 
 ## More Information
 
-This was started from [Learn Next.js](https://nextjs.org/learn), using [this Git Repo]() as a starting point. The final result of the [example tutorial demo can be found here.](https://next-learn-starter.vercel.app/)
+This was started from [Learn Next.js](https://nextjs.org/learn), using [this Git Repo](https://github.com/vercel/next-learn/tree/master/basics/demo) as a starting point. The final result of the [example tutorial demo can be found here.](https://next-learn-starter.vercel.app/)
